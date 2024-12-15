@@ -24,7 +24,8 @@ Gladiator Arena is a turn-based RPG where you play as a brave gladiator, battlin
 ## 🛠️ Installation
 
 Clone the repository or download the script:
-```git clone https://github.com/your-username/gladiator-arena.git
+```
+git clone https://github.com/your-username/gladiator-arena.git
 ```
 Navigate to the project directory:
 cd gladiator-arena
