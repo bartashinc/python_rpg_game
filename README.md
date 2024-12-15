@@ -13,17 +13,19 @@ Gladiator Arena is a turn-based RPG where you play as a brave gladiator, battlin
   Enemies from Level 3 onwards may have unique skills:
   * 🗡️ Critical Strike: 20% chance to deal double damage.
   * 🌀 Regeneration: Recovers health during their turn.
-* Character Progression
+* Character Progression \
   Level up after each victory and enhance your stats:
   * Increase health, attack, or defense.
-* Dynamic Stats Display
+* Dynamic Stats Display \
   Stay informed with a visually structured stats interface during battles.
-* Victory and Defeat
+* Victory and Defeat \
   Defeat 12 enemies to win or perish in the arena trying.
-🛠️ Installation
+  
+## 🛠️ Installation
 
 Clone the repository or download the script:
-git clone https://github.com/your-username/gladiator-arena.git
+```git clone https://github.com/your-username/gladiator-arena.git
+```
 Navigate to the project directory:
 cd gladiator-arena
 Run the game:
