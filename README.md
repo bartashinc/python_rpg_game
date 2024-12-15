@@ -4,22 +4,22 @@ Gladiator Arena is a turn-based RPG where you play as a brave gladiator, battlin
 
 ## 🎮 Features
 
-1. Dynamic Combat System
-   * Choose your actions strategically in a turn-based battle system:
-2. Attack
-2. Block
-2. Use healing potions
-1. Special Enemy Abilities
-  * Enemies from Level 3 onwards may have unique skills:
-2. 🗡️ Critical Strike: 20% chance to deal double damage.
-2. 🌀 Regeneration: Recovers health during their turn.
-1. Character Progression
-  * Level up after each victory and enhance your stats:
-2. Increase health, attack, or defense.
-1. Dynamic Stats Display
-  * Stay informed with a visually structured stats interface during battles.
-1. Victory and Defeat
-Defeat 12 enemies to win or perish in the arena trying.
+* Dynamic Combat System
+  Choose your actions strategically in a turn-based battle system:
+  * Attack
+  * Block
+  * Use healing potions
+* Special Enemy Abilities
+  Enemies from Level 3 onwards may have unique skills:
+  * 🗡️ Critical Strike: 20% chance to deal double damage.
+  * 🌀 Regeneration: Recovers health during their turn.
+* Character Progression
+  Level up after each victory and enhance your stats:
+  * Increase health, attack, or defense.
+* Dynamic Stats Display
+  Stay informed with a visually structured stats interface during battles.
+* Victory and Defeat
+  Defeat 12 enemies to win or perish in the arena trying.
 🛠️ Installation
 
 Clone the repository or download the script:
