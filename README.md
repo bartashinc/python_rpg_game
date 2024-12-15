@@ -4,12 +4,12 @@ Gladiator Arena is a turn-based RPG where you play as a brave gladiator, battlin
 
 ## 🎮 Features
 
-* Dynamic Combat System
+* Dynamic Combat System \
   Choose your actions strategically in a turn-based battle system:
   * Attack
   * Block
   * Use healing potions
-* Special Enemy Abilities
+* Special Enemy Abilities \
   Enemies from Level 3 onwards may have unique skills:
   * 🗡️ Critical Strike: 20% chance to deal double damage.
   * 🌀 Regeneration: Recovers health during their turn.
